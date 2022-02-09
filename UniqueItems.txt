@@ -87,7 +87,7 @@ Hawkmail	0	1		1		20	15	scl	Scale Mail			5	5000	cgrn	cgrn						ac%		20	40	res-col
 Sparking Mail	0	1		1		23	17	chn	Chain Mail			5	5000	lyel	lyel						ac%		20	40	dmg-ltng		1	30	light-thorns		20	28	res-ltng		30	30	extra-ltng		5	10																													0
 Venomsward	0	1		1		27	20	brs	Breast Plate			5	5000	dyel	dyel						res-pois-max		15	15	res-pois-len		50	50	res-pois		45	90	light		2	2	ac%		60	100	pierce-pois		5	15																									0
 Iceblink	0	1		1		30	22	spl	Splint Mail			5	5000	lgld	lgld						freeze		1	1	res-cold		20	35	light		4	4	red-mag		2	6	ac%		30	40	coldskill		1	2																									0
-Boneflesh	0	1		1		35	26	plt	Plate Mail			5	5000	dgld	dgld						lifesteal		5	5	ac%		50	70	att		235	235	openwounds		25	25	oskill	68	5	10	gethit-skill	Bone Armor	10	10																									0
+Boneflesh	0	1		1		35	26	plt	Plate Mail			5	5000	dgld	dgld						lifesteal		5	5	ac%		60	80	att		235	235	openwounds		25	25	oskill	68	5	10	gethit-skill	Bone Armor	10	10																									0
 Rockfleece	0	1		1		38	28	fld	Field Plate			5	5000	dgry	dgry						ease		-10	-10	ac%		60	80	red-dmg%		10	20	red-dmg		5	15	str		5	15																													0
 Rattlecage	0	1		1		39	29	gth	Gothic Plate			5	5000	dpur	dpur						howl		10	10	att		100	145	crush		25	25	ac		200	200	dmg%		35	70																													0
 Goldskin	0	1		1		38	28	ful	Full Plate Mail			5	5000	oran			invfulu				ac%		100	130	res-all		35	35	thorns		10	10	light		2	2	gold%		100	100																													0
