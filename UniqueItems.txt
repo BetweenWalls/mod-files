@@ -221,8 +221,8 @@ Skullder's Ire	100	1		1		50	42	xpl	Russet Armor			3	5000								allskills		1	1	m
 Guardian Angel	100	1		1		53	45	xlt	Templar Coat			3	5000	lgry	lgry						light		4	4	pal		1	1	ac%		120	140	block2		30	30	block		20	20	att-dem/lvl	28			res-fire-max		4	6	res-cold-max		4	6	res-ltng-max		4	6	res-pois-max		4	6									0
 Toothrow	100	1		1		56	48	xld	Sharktooth Armor			3	5000	bwht	whit						thorns		250	400	ac		40	60	str		10	10	openwounds		40	40	res-fire		15	15	ac%		110	160	dur		15	15	deadly		25	35																	0
 Atma's Wail	100	1		1		59	51	xth	Embossed Plate			3	5000								dex		15	15	regen		10	20	mana%		15	25	balance2		30	30	ac/lvl	16			dur		50	50	ac%		90	120	mag%		20	20	allskills		1	1	cast2		30	30									0
-Black Hades	100	1		1		61	53	xul	Chaos Armor			3	5000								light		-2	-2	att-demon		400	450	half-freeze		1	1	sock		3	4	ac%		140	200	dmg-demon		160	225																									0
-Corpsemourn	100	1		1		63	55	xar	Ornate Armor			3	5000	blac	blac		invxaru				str		8	8	vit		10	10	res-cold		35	35	reanimate	1	12	12	ac%		120	170	fire-min		120	160	fire-max		300	340	oskill	74	20	20	ease		-15	-15													0
+Black Hades	100	1		1		61	53	xul	Chaos Armor			3	5000								light		-2	-2	att-demon		400	450	half-freeze		1	1	sock		3	4	ac%		120	170	dmg-demon		160	225																									0
+Corpsemourn	100	1		1		63	55	xar	Ornate Armor			3	5000	blac	blac		invxaru				str		8	8	vit		10	10	res-cold		35	35	reanimate	1	12	12	ac%		150	180	fire-min		120	160	fire-max		300	340	oskill	74	20	20	ease		-15	-15													0
 Que-Hegan's Wisdon	100	1		1		59	51	xtp	Mage Plate			3	5000								cast2		20	20	mana-kill		3	5	red-mag		6	10	enr		15	25	balance2		20	20	ac%		140	160	allskills		1	2																					0
 Visceratuant	100	1		1		36	28	xuc	Defender			3	5000	dred			invbucu				sor		1	1	block2		30	30	block		30	30	ac%		100	150	light-thorns		35	50	extra-ltng		5	10																									0
 Mosers Blessed Circle	100	1		1		39	31	xml	Round Shield			3	5000				invxmlu				res-all		25	25	block		25	25	sock	2			ac%		120	160	block2		30	30																													0
@@ -312,7 +312,7 @@ Jadetalon	100	1		1		74	66	7wb	wrist sword			5	5000	cgrn	cgrn						dmg%		240	320	
 Shadowdancer	100	1		1		79	71	uhb	myrmidon greaves			5	5000	blac	blac						ac%		70	100	move2		30	30	balance2		30	30	dex		15	25	skilltab	19	1	2	ease		-20	-20																									0
 Cerebus	100	1		1		71	63	drb	blood spirit			5	5000	bwht	bwht						ac%		130	140	skilltab	16	2	4	lifesteal		7	10	att%		60	120	openwounds		33	33	skill	232	1	2	deadly		33	33	skill	242	1	2																	0
 Tyrael's Might	100	1		1		87	84	uar	sacred armor	1		5	5000	dblu	dblu		invaaru				ease		-100	-100	indestruct		1	1	ac%		80	100	dmg-undead		200	250	dmg-demon		200	250	nofreeze		1	1	move2		45	45	res-all		20	30	str		20	30													0
-Souldrain	100	1		1		82	74	umg	vambraces			5	5000	dred	dred						ac%		90	120	manasteal		2	4	lifesteal		2	4	regen		-300	-300	dmg-ac		-50	-50	pierce-phys		5	8																									0
+Souldrain	100	1		1		82	74	umg	vambraces			5	5000	dred	dred						ac%		50	80	manasteal		2	4	lifesteal		2	4	regen		-300	-300	dmg-ac		-50	-50	pierce-phys		5	8																									0
 Runemaster	100	1		1		80	72	72a	ettin axe			5	5000	lblu	lblu						dmg%		220	270	sock		4	5	res-cold-max		5	5	nofreeze		1	1	swing2		30	30																									splash	358	100	1	0
 Deathcleaver	100	1		1		78	70	7wa	berserker axe			5	5000	dred							dmg%		280	330	deadly		50	50	reduce-ac		33	33	swing2		40	40	heal-kill		6	9	dmg-min		15	30																					splash	358	100	1	0
 Executioner's Justice	100	1		1		83	75	7gi	glorious axe			5	5000	blac	blac						dmg%		270	320	crush		25	25	reduce-ac		33	33	kill-skill	AmpDmg Proc	50	18	swing2		30	30																									splash	358	100	1	0
