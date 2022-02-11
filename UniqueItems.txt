@@ -73,9 +73,9 @@ Doomspittle	0	1		1		38	28	rxb	Repeating Crossbow			5	5000	lpur			invrxbu				ama	
 War Bonnet	0	1		1		4	3	cap	Cap			5	5000	dpur			invcapu				hp		15	15	att		30	50	dmg%		30	50	mana		15	15	ac		14	14																													0
 Tarnhelm	0	1		1		20	15	skp	Skull Cap			5	5000	oran	oran						gold%		75	75	mag%		25	50	allskills		1	1	mana-kill		2	3																																	0
 Coif of Glory	0	1		1		19	14	hlm	Helm			5	5000	whit			invhlmu				light-thorns		17	17	stupidity		1	1	res-ltng		15	15	ac-miss		100	100	ac		10	10	heal-kill		2	3																									0
-Duskdeep	0	1		1		23	17	fhl	Full Helm			5	5000	lgry			invfhlu				light		-2	-2	res-all		15	15	red-dmg		7	7	dmg-max		10	15	ac		10	20	ac%		30	50																									0
+Duskdeep	0	1		1		23	17	fhl	Full Helm			5	5000	lgry			invfhlu				light		-2	-2	res-all		15	15	red-dmg		7	7	dmg-max		10	15	ac		10	20	ac%		10	20																									0
 Wormskull	0	1		1		28	21	bhm	Bone Helm			5	5000	lgrn			invbhmu				nec		1	1	lifesteal		5	5	mana		10	10	res-pois		25	25	skilltab	7	1	1	dmg-pois	50	204	204																									0
-Howltusk	0	1		1		34	25	ghm	Great Helm			5	5000	dgry	dgry						red-mag		2	2	thorns		30	30	ac%		50	50	dmg-to-mana		35	35	swing2		20	20	hit-skill	howl	10	5																									0
+Howltusk	0	1		1		34	25	ghm	Great Helm			5	5000	dgry	dgry						red-mag		2	2	thorns		30	30	ac%		30	30	dmg-to-mana		35	35	swing2		20	20	hit-skill	howl	10	5																									0
 Undead Crown	0	1		1		39	29	crn	Crown			5	5000	blac	blac						lifesteal		5	5	ac		40	40	res-pois		50	50	half-freeze		1	1	dmg-undead		50	50	att-undead		50	100	skill	69	2	3	skill	70	2	3																	0
 The Face of Horror	0	1		1		27	20	msk	Mask			5	5000	lblu	lblu						howl		64	64	str		20	20	res-all		15	20	dmg-undead		50	50	ac		25	25																													0
 Greyform	0	1		1		10	7	qui	Quilted Armor			5	5000	lgry	lgry						red-mag		3	3	res-cold		20	20	res-fire		20	20	dex		10	10	lifesteal		5	5	ac		20	20																									0
@@ -391,7 +391,7 @@ Bonehew	100	1		1		72	64	7o7	ogre axe			3	5000	bwht	bwht						dmg%		270	320	swing
 Ondal's Wisdom	100	1		1		74	66	6cs	elder staff			3	5000				invcstu				cast2		105	105	enr		40	50	allskills		2	4	ac		750	950	red-mag		10	16																									splash	358	100	1	0
 The Reedeemer	100	1		1		80	72	7sc	mighty scepter			3	5000								dmg%		250	300	dmg-demon		200	250	pal		2	2	ease		-60	-60	skill	Redemption	2	4	skill	Holy Bolt	2	4	light		3	3	reduce-ac		33	33	dmg		60	120	skill	119	2	4					splash	358	100	1	0
 Headhunter's Glory	100	1		1		83	75	ush	troll nest			3	5000				invbshu				ac		320	420	ac-miss		300	350	res-pois		30	40	sock		1	3	res-fire		20	30	heal-kill		5	7	att-skill	AmpDmg Proc	16	15	att		280	445	move2		25	25													0
-Steelrend	100	1		1		78	70	uhg	ogre gauntlets			3	5000								ac		160	200	str		15	20	dmg%		50	80	crush		10	20	thorns		250	250																									splash	358	100	1	0
+Steelrend	100	1		1		78	70	uhg	ogre gauntlets			3	5000								ac		160	160	str		15	20	dmg%		50	80	crush		10	20	thorns		250	250																									splash	358	100	1	0
 Rainbow Facet	100	1		1		85	49	jew	jewel			3	5000								dmg-ltng		1	74	pierce-ltng		3	5	extra-ltng		3	5	death-skill	Chain Lightning	100	47																																	0
 Rainbow Facet	100	1		1		85	49	jew	jewel			3	5000								dmg-cold	3	24	38	pierce-cold		3	5	extra-cold		3	5	death-skill	Blizzard	100	37																																	0
 Rainbow Facet	100	1		1		85	49	jew	jewel			3	5000								dmg-fire		17	45	pierce-fire		3	5	extra-fire		3	5	death-skill	Meteor	100	31																																	0
