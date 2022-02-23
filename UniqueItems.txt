@@ -123,8 +123,8 @@ Nagelring	0	1		15		10	7	rin	Ring			5	5000	dpur							red-mag		3	3	thorns		3	3	at
 Manald Heal	0	1		15		20	15	rin	Ring			5	5000	oran							manasteal		4	7	regen		5	8	hp		20	20	regen-mana		20	20																																	0
 The Stone of Jordan	0	1		1		39	29	rin	Ring			5	5000	whit							mana		20	40	mana%		15	20	dmg-ltng		1	120	allskills		1	1																																	0
 Amulet of the Viper	0	1		1		0	0	vip	Amulet			5	5000	lgry							mana		10	10	res-pois		25	25	hp		10	10			0	0			0	0			0	0			0	0																					0
-Staff of Kings	0	1		1		0	0	msf	Staff			5	5000	dgry							res-all		10	10	swing3		50	50			0	0			0	0			0	0			0	0			0	0																					0
-Horadric Staff	0	1		1		0	0	hst	Staff			5	5000	blac							mana		10	10	res-pois		25	25	hp		10	10	res-all		10	10	swing3		50	50			0	0			0	0																					0
+Staff of Kings	0	1		1		0	0	msf	Staff			5	5000	dgry							res-all		10	10	swing3		50	50	cast1		10	10			0	0			0	0			0	0			0	0																	splash	358	100	1	0
+Horadric Staff	0	1		1		0	0	hst	Staff			5	5000	blac							mana		10	10	res-pois		25	25	hp		10	10	res-all		10	10	swing3		50	50	cast1		10	10			0	0																	splash	358	100	1	0
 Hell Forge Hammer	0	1		1		0	0	hfh	Hammer			5	5000	cred							fire-min		5	5	fire-max		20	20	res-fire		40	40	ac		35	35			0	0			0	0			0	0																	splash	358	100	1	0
 KhalimFlail	0	1		1		0	0	qf1	Flail			5	5000	dblu							ltng-min		1	1	ltng-max		20	20	swing3		50	50	att		40	40			0	0			0	0			0	0																	splash	358	100	1	0
 SuperKhalimFlail	0	1		1		0	0	qf2	Flail			5	5000	dblu							ltng-min		1	1	ltng-max		40	40	swing3		50	50	att		40	40	manasteal		6	6	lifesteal		6	6			0	0																	splash	358	100	1	0
@@ -184,7 +184,7 @@ Pierre Tombale Couant	100	1		1		51	43	9pa	Partizan			5	5000	lgld	lgld						deadl
 Husoldal Evo	100	1		1		52	44	9h9	Bec-de-Corbin			5	5000								regen		40	60	att		200	250	noheal		1	1	dmg-norm		20	32	dmg%		240	280	swing2		20	20																					splash	358	100	1	0
 Grim's Burning Dead	100	1		1		52	45	9wc	Grim Scythe			5	5000	cred	cred						dmg-fire		131	232	res-fire		45	45	dmg%		220	260	skill	80	3	5	ease		-50	-50	nec		2	3	reduce-ac		50	50	grims-extra-skele-mage		8	8	att		200	250									splash	358	100	1	0
 Razorswitch	100	1		1		36	28	8ss	Jo Stalf			5	5000	lpur							cast3		40	40	thorns		15	15	mana		175	175	hp		80	80	red-mag		15	15	res-all		50	50	allskills		1	1																	splash	358	100	1	0
-Ribcracker	100	1		1		39	31	8ls	Quarterstaff			5	5000	lblu	lblu						dmg-norm		30	65	dmg%		200	300	crush		50	50	dex		15	15	ac		100	100	ac%		100	100	balance2		50	50	swing2		50	50	dur		100	100	cast	30	30						splash	358	100	1	0
+Ribcracker	100	1		1		39	31	8ls	Quarterstaff			5	5000	lblu	lblu						dmg-norm		30	65	dmg%		200	300	crush		50	50	dex		15	15	ac		100	100	ac%		100	100	balance2		50	50	swing2		50	50	dur		100	100	cast2		30	30					splash	358	100	1	0
 Chromatic Ire	100	1		1		43	35	8cs	Cedar Staff			5	5000				invcstu				sor		3	3	res-all		20	40	cast1		45	45	light-thorns		20	20	hp%		20	25	skill	61	1	1	skill	63	1	1	skill	65	1	1													splash	358	100	1	0
 Warpspear	100	1		1		47	39	8bs	Gothic Staff			5	5000	cblu	cblu						sor		3	3	ignore-ac		1	1	skill	54	3	3	skill	55	1	2	skill	58	3	3	ac-miss		250	250	skill	369	1	2	cast3		55	55													splash	358	100	1	0
 Skullcollector	100	1		1		49	41	8ws	Rune Staff			5	5000	blac	blac		inv8wsu				mana%		20	20	mana-kill		10	20	allskills		2	3	mag%/lvl	8			nec		1	2	cast3		60	60																					splash	358	100	1	0
@@ -423,3 +423,5 @@ Magefist	0	1		1		31	23	tgl	Light Gauntlets			5	5000	lgry	lgry						cast3		20	20	
 Magefist	0	1		1		31	23	tgl	Light Gauntlets			5	5000	lgry	lgry						cast3		20	20	regen-mana		10	25	ltngskill		1	1	dmg-ltng		1	45	ac		10	10	ac%		20	30																									0
 Magefist	0	1		1		31	23	tgl	Light Gauntlets			5	5000	lgry	lgry						cast3		20	20	regen-mana		10	25	coldskill		1	1	dmg-cold		10	18	ac		10	10	ac%		20	30																									0
 Rathma Trophy	100	0		0		130	1	cm1	charm			3	5000			flpflag	invflag	item_charm	12	item_charm	hp		20	20	state	rathmaset	1	1	rathma-clout		1	1	state	devaura	1	1																																	0
+Gidbinn	0	0		1		0	0	g33	Dagger			5	5000	dgry							deadly		20	20			0	0			0	0			0	0			0	0			0	0			0	0																	splash	358	100	1	0
+Horadric Malus	0	0		1		0	0	hdm	Hammer			5	5000	dgry							dmg-undead		50	50			0	0			0	0			0	0			0	0			0	0			0	0																	splash	358	100	1	0
